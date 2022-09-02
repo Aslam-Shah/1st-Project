@@ -1,0 +1,16 @@
+.inner-main-container-footer{
+    margin-top: -190px !important;
+}
+
+.contact-us-main-image{
+    margin-top: 75px !important ;
+}
+
+
+    @media(max-width:1200px) {
+
+        .same{
+            visibility: visible;
+            display: block;
+        }
+    }

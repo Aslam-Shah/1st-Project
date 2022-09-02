@@ -1,0 +1,55 @@
+.about-us{
+    margin-top: 130px;
+    display: block;
+    padding:10px;
+}
+
+.about-us > img{
+    width: 100%;
+    padding: 0;
+}
+
+
+
+.about-us-bottom button{
+    width: 70%;
+}
+
+.inner-main-container-footer{
+    margin-top: 40px;
+}
+
+@media (max-width: 450px){
+    .rotate h3{
+        transform: rotate(0deg);
+        margin-top: 0px;
+        font-size: 29px;
+    }
+
+    .rotate{
+        transform: rotate(0deg);
+        margin-top: 50px;
+       margin: auto;
+
+    }
+
+    .rotate-content{
+        display: block;
+        text-align: center;
+        margin-top: -20px;
+    }
+
+    .about-us-content > p{
+        margin-bottom: 40px;
+    }
+
+    .block-items p{
+        margin-top: 30px;
+        font-size: 12px;
+
+    }
+
+    .about-us-bottom button{
+        width: 100%;
+    }
+}
